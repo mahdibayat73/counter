@@ -1,2 +1,2 @@
 # counter
-create counter by setInterval &amp; clearInterval with js
+create counter by setInterval and clearInterval with js
